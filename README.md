@@ -92,7 +92,7 @@ rosrun signal heatmap.py
 ## Running the driver on the real robot
 ### start up the robot
 - switch on Mir
-- connect to its wifi
+- connect to its wifi(password "mirex4you")
 - open mir.com
 
 ### Start the Ros driver
