@@ -9,7 +9,7 @@ mkdir -p ~/{catkin_ws}/src
 cd ~/{catkin_ws}/src/
 
 # clone into the catkin workspace
-git clone https://github.com/AILab121/OOSE.git
+git clone https://github.com/AILab121/mir_robot.git
 
 # use rosdep to install all dependencies (including ROS itself)
 sudo apt-get update -qq
